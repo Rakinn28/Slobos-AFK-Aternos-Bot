@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lotimc.aternos.me ",
+    "ip": "LotiMC.aternos.me",
     "port": 39398,
     "version": "1.21.11",
     "try-creative": false
